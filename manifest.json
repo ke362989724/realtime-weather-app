@@ -1,11 +1,11 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "臺灣好天氣",
+  "name": "臺灣好天氣-即時縣市天氣",
   "icons": [
     {
-      "src": "icon@48.png",
+      "src": "icon@x48.png",
       "type": "image/png",
-      "sizes": "48 x 48"
+      "sizes": "48 × 48"
     },
     {
       "src": "icon@96.png",
